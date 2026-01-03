@@ -1,0 +1,265 @@
+{
+    "normal": {
+        "Dano duplo a": [],
+        "Dano metade a": [
+            "rock",
+            "steel"
+        ],
+        "Sem dano a": [
+            "ghost"
+        ]
+    },
+    "fighting": {
+        "Dano duplo a": [
+            "normal",
+            "rock",
+            "steel",
+            "ice",
+            "dark"
+        ],
+        "Dano metade a": [
+            "flying",
+            "poison",
+            "bug",
+            "psychic",
+            "fairy"
+        ],
+        "Sem dano a": [
+            "ghost"
+        ]
+    },
+    "flying": {
+        "Dano duplo a": [
+            "fighting",
+            "bug",
+            "grass"
+        ],
+        "Dano metade a": [
+            "rock",
+            "steel",
+            "electric"
+        ],
+        "Sem dano a": []
+    },
+    "poison": {
+        "Dano duplo a": [
+            "grass",
+            "fairy"
+        ],
+        "Dano metade a": [
+            "poison",
+            "ground",
+            "rock",
+            "ghost"
+        ],
+        "Sem dano a": [
+            "steel"
+        ]
+    },
+    "ground": {
+        "Dano duplo a": [
+            "poison",
+            "rock",
+            "steel",
+            "fire",
+            "electric"
+        ],
+        "Dano metade a": [
+            "bug",
+            "grass"
+        ],
+        "Sem dano a": [
+            "flying"
+        ]
+    },
+    "rock": {
+        "Dano duplo a": [
+            "flying",
+            "bug",
+            "fire",
+            "ice"
+        ],
+        "Dano metade a": [
+            "fighting",
+            "ground",
+            "steel"
+        ],
+        "Sem dano a": []
+    },
+    "bug": {
+        "Dano duplo a": [
+            "grass",
+            "psychic",
+            "dark"
+        ],
+        "Dano metade a": [
+            "fighting",
+            "flying",
+            "poison",
+            "ghost",
+            "steel",
+            "fire",
+            "fairy"
+        ],
+        "Sem dano a": []
+    },
+    "ghost": {
+        "Dano duplo a": [
+            "ghost",
+            "psychic"
+        ],
+        "Dano metade a": [
+            "dark"
+        ],
+        "Sem dano a": [
+            "normal"
+        ]
+    },
+    "steel": {
+        "Dano duplo a": [
+            "rock",
+            "ice",
+            "fairy"
+        ],
+        "Dano metade a": [
+            "steel",
+            "fire",
+            "water",
+            "electric"
+        ],
+        "Sem dano a": []
+    },
+    "fire": {
+        "Dano duplo a": [
+            "bug",
+            "steel",
+            "grass",
+            "ice"
+        ],
+        "Dano metade a": [
+            "rock",
+            "fire",
+            "water",
+            "dragon"
+        ],
+        "Sem dano a": []
+    },
+    "water": {
+        "Dano duplo a": [
+            "ground",
+            "rock",
+            "fire"
+        ],
+        "Dano metade a": [
+            "water",
+            "grass",
+            "dragon"
+        ],
+        "Sem dano a": []
+    },
+    "grass": {
+        "Dano duplo a": [
+            "ground",
+            "rock",
+            "water"
+        ],
+        "Dano metade a": [
+            "flying",
+            "poison",
+            "bug",
+            "steel",
+            "fire",
+            "grass",
+            "dragon"
+        ],
+        "Sem dano a": []
+    },
+    "electric": {
+        "Dano duplo a": [
+            "flying",
+            "water"
+        ],
+        "Dano metade a": [
+            "grass",
+            "electric",
+            "dragon"
+        ],
+        "Sem dano a": [
+            "ground"
+        ]
+    },
+    "psychic": {
+        "Dano duplo a": [
+            "fighting",
+            "poison"
+        ],
+        "Dano metade a": [
+            "steel",
+            "psychic"
+        ],
+        "Sem dano a": [
+            "dark"
+        ]
+    },
+    "ice": {
+        "Dano duplo a": [
+            "flying",
+            "ground",
+            "grass",
+            "dragon"
+        ],
+        "Dano metade a": [
+            "steel",
+            "fire",
+            "water",
+            "ice"
+        ],
+        "Sem dano a": []
+    },
+    "dragon": {
+        "Dano duplo a": [
+            "dragon"
+        ],
+        "Dano metade a": [
+            "steel"
+        ],
+        "Sem dano a": [
+            "fairy"
+        ]
+    },
+    "dark": {
+        "Dano duplo a": [
+            "ghost",
+            "psychic"
+        ],
+        "Dano metade a": [
+            "fighting",
+            "dark",
+            "fairy"
+        ],
+        "Sem dano a": []
+    },
+    "fairy": {
+        "Dano duplo a": [
+            "fighting",
+            "dragon",
+            "dark"
+        ],
+        "Dano metade a": [
+            "poison",
+            "steel",
+            "fire"
+        ],
+        "Sem dano a": []
+    },
+    "stellar": {
+        "Dano duplo a": [],
+        "Dano metade a": [],
+        "Sem dano a": []
+    },
+    "unknown": {
+        "Dano duplo a": [],
+        "Dano metade a": [],
+        "Sem dano a": []
+    }
+}
