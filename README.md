@@ -46,7 +46,7 @@ Observações:
 
 ## 🔧 Como atualizar `pokemon.json`
 
-`requisicoes_pokemon.py` faz requisições à PokéAPI e pode gerar a estrutura usada em `pokemon.json`. O código para popular as listas (`Dano duplo a`, etc.) está presente, mas parcialmente comentado — é preciso revisar e descomentar para que ele gere o JSON automaticamente.
+`requisicoes_pokemon.py` faz requisições à PokéAPI e pode gerar a estrutura usada em `pokemon.json`. O código para popular as listas (`Dano duplo a`, etc.) está presente.
 
 Exemplo de uso (apenas como referência):
 
